@@ -95,40 +95,6 @@ public class SuryaM {
 ![Claude API](https://img.shields.io/badge/Claude_API-D97706?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuryaDeveloper079&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaDeveloper079&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d&langs_count=8" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SuryaDeveloper079&theme=tokyonight-duo&background=0d1117&border=30363d&stroke=70A5FD&ring=70A5FD&fire=FFA657&currStreakLabel=70A5FD" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuryaDeveloper079&theme=tokyo-night&bg_color=0d1117&color=70A5FD&line=70A5FD&point=FFA657&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-## 🏆 Trophy Wall
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SuryaDeveloper079&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 💼 Work Experience
 
 <details>
